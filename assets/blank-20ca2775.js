@@ -1,0 +1,1 @@
+import{n as _}from"./index-89840f01.js";var s=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"tdesign-wrapper"},[n("router-view")],1)},o=[];const a={},r={};var c=_(a,s,o,!1,l,"35c18512",null,null);function l(t){for(let e in r)this[e]=r[e]}const u=function(){return c.exports}();export{u as default};
